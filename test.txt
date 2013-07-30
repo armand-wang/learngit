@@ -1,17 +1,2 @@
-today is a good day.
-and tomorrow too
-day after day
-day by day
-wangwei
-haha
-test1
-1
-2
-fix2
-fix1
-fix3
-wuwu
-000
-muha
-d
+let's learn git
 
